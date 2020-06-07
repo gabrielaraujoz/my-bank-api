@@ -1,0 +1,21 @@
+2020-06-06T19:48:06.176Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T19:48:42.088Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T19:51:34.745Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T19:52:54.515Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T19:57:24.051Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T20:01:59.492Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T20:07:04.776Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T20:07:16.692Z [my-bank-api] info: POST /account/deposit - Valor depositado: 150 Novo Saldo: [object Object]
+2020-06-06T20:07:37.931Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T20:07:41.108Z [my-bank-api] info: POST /account/deposit - Valor depositado: 150 Novo Saldo: undefined
+2020-06-06T20:07:49.328Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T20:07:52.088Z [my-bank-api] info: POST /account/deposit - Valor depositado: 150 Novo Saldo: 1050.94
+2020-06-06T20:08:18.279Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T20:08:35.795Z [my-bank-api] error: POST /account/withdraw - Unexpected token o in JSON at position 1
+2020-06-06T20:08:53.636Z [my-bank-api] error: POST /account/withdraw - Unexpected token o in JSON at position 1
+2020-06-06T20:10:13.543Z [my-bank-api] error: POST /account/withdraw - Unexpected token o in JSON at position 1
+2020-06-06T20:11:09.122Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T20:11:35.062Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T20:12:50.725Z [my-bank-api] info: Listening to port: 3000
+2020-06-06T20:13:10.730Z [my-bank-api] error: POST /account/withdraw - Valor indisponível - account = 6 req = 2010 saldo = 1050.94
+2020-06-06T20:13:10.734Z [my-bank-api] error: POST /account/withdraw - Não há saldo suficiente
